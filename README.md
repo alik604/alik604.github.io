@@ -1,16 +1,6 @@
-SERVICES
-DOCUMENTS
-Untitled Document.md
-PREVIEW AS 
-EXPORT AS 
-SAVE TO 
-IMPORT FROM 
-DOCUMENT NAME
-Untitled Document.md
-MARKDOWN PREVIEW Toggle Mode
-  
+// used https://dillinger.io/ to quick .docx to .md conversion 
 <p class="has-line-data" data-line-start="1" data-line-end="4">Khizr Ali Pardhan<br>
-778-980-7274    <a href="mailto:kpardhan@sfu.ca">kpardhan@sfu.ca</a><br>
+<a href="mailto:kpardhan@sfu.ca">kpardhan@sfu.ca</a><br>
 <a href="http://Github.com/alik604">Github.com/alik604</a></p>
 <pre><code>Personal Projects
 </code></pre>
