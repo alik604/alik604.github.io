@@ -75,27 +75,22 @@ clusters and to machine learning.
 
 ## Experience
 
-       - Thales Canada, Information security analysis (04/2019-present)
-          - Lead Digital Forensics efforts. Designed and heavily automated the process. Assisted in Incident Response
-          - Optimized 30 firewalls across North America. Lead the project and held meetings with managers
-          - Conducted inventories of Internet facing assets with NMAP and Nessus.
-          - Assisted in patching or removing vulnerable software using Group Policy, PowerShell, and Python
-          - Wrote training documents covering the above topics and the _SANS FOR508_ course
-          - Assisted in (network) penetration testing, and threat hunting, the searching of malicious software or
-             intrusion, on all accessible endpoints and servers.
-       - Phone-ER, Cell phone repair technician (06/2015 – 04/2019)
-       - Evergreen Computers, Volunteer as Computer repair technician (06/2014 – 07/
+- Thales Canada, Information security analysis (04/2019-present)
+  - Lead Digital Forensics efforts. Designed and heavily automated the process. Assisted in Incident Response
+  - Optimized 30 firewalls across North America. Lead the project and held meetings with managers
+  - Conducted inventories of Internet facing assets with NMAP and Nessus.
+  - Assisted in patching or removing vulnerable software using Group Policy, PowerShell, and Python
+  - Wrote training documents covering the above topics and the _SANS FOR508_ course
+  - Assisted in (network) penetration testing, and threat hunting, the searching of malicious software or
+     intrusion, on all accessible endpoints and servers.
+- Phone-ER, Cell phone repair technician (06/2015 – 04/2019)
+- Evergreen Computers, Volunteer as Computer repair technician (06/2014 – 07/
 
 
 ```
 Capture The Flags
 ```
-● Trend micro’s
-    CTF. 1st place in
-    offensive, 3rd
-    place in
-    defensive
-
+● Trend micro’s CTF. 1st place in offensive, 3rd place in defensive
 ```Hackathons and case Competitions
 ```
 ● NWHacks 2019
