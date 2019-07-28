@@ -90,12 +90,11 @@ clusters and to machine learning.
 ```
 Capture The Flags
 ```
-● Trend micro’s CTF. 1st place in offensive, 3rd place in defensive
-```Hackathons and case Competitions
+Trend micro’s CTF. 1st place in offensive, 3rd place in defensive
+
 ```
-● NWHacks 2019
-● UBC’s BizTech:
-Cracking Open a
-Code One
-● SFU Tech: From
-Problem to Idea.
+Hackathons and case Competitions
+```
+NWHacks 2019
+UBC’s BizTech:Cracking Open a Code One
+● SFU Tech: From Problem to Idea.
