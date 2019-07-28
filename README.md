@@ -97,4 +97,4 @@ Hackathons and case Competitions
 ```
 NWHacks 2019
 UBC’s BizTech:Cracking Open a Code One
-● SFU Tech: From Problem to Idea.
+SFU Tech: From Problem to Idea.
