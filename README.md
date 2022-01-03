@@ -2,9 +2,6 @@
 
 >  kpardhan@sfu.ca
 
-> Github.com/alik
-
-
 ## Languages and Technologies
 
 ```
