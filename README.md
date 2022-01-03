@@ -56,7 +56,7 @@ inference) and recurrent neural networks
 - Multiple Android apps (08/2017 – 05/2018)
     - ‘Quick mental math’ app is a simple app which revolves around TextView and EditText
     - ‘Calculator’ app is an iOS style calculator which was my first serious android app.
-- Programming 11 and 12 projects ( 04 /201 4 - 05 /201 5 )
+- Programming 11 and 12 projects (04/2014 - 05/2015)
     - Media player made with JavaFX, Scientific calculator made with Swing and AWT. Dec 2015 code sample
  ## Education
 
@@ -81,9 +81,7 @@ clusters and to machine learning.
   - Assisted in (network) penetration testing, and threat hunting, the searching of malicious software or
      intrusion, on all accessible endpoints and servers.
 - Phone-ER, Cell phone repair technician (06/2015 – 04/2019)
-- Evergreen Computers, Volunteer as Computer repair technician (06/2014 – 07/
-
-
+- Evergreen Computers, Volunteer as Computer repair technician (06/2014 – 07/2014)
 ```
 Capture The Flags
 ```
